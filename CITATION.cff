@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the article."
+title: "Naming the Loop: Data and Materials"
+authors:
+  - family-names: Hamidavi
+    given-names: Abbas
+    orcid: "https://orcid.org/0009-0001-7342-7844"
+    affiliation: "Department of Computer Engineering, Mashhad Branch, Islamic Azad University, Mashhad, Iran"
+date-released: 2026-11-04
+license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23955704"
+    description: "Preprint (Zenodo)"
+preferred-citation:
+  type: article
+  title: "Naming the Loop: Elicited Self-Reference in Extended Dialogue With Large Language Models: A Case Series of the Spine Protocol"
+  authors:
+    - family-names: Hamidavi
+      given-names: Abbas
+      orcid: "https://orcid.org/0009-0001-7342-7844"
+  journal: "Journal of Artificial Intelligence and Consciousness"
+  year: 2026
+  notes: "Manuscript submitted November 2026, submission S-26-00294."
